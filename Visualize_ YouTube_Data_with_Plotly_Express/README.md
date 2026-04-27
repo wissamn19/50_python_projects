@@ -86,13 +86,6 @@ Through this project, I improved my skills in:
 
 ---
 
-##  Future Improvements
-- Add more advanced and interactive visualizations  
-- Explore additional datasets for deeper analysis  
-- Build an interactive dashboard version of the project  
-
----
-
 ## How to Run
 1. Open the notebook in Google Colab  
 2. Upload the dataset when prompted  
