@@ -78,10 +78,10 @@ Through this project, I improved my skills in:
 ---
 
 ## Sample Visualizations
-*(Add your screenshots in an `images/` folder and link them here)*
 
 ![Subscribers Distribution](images/histogram.png)  
-![Category Distribution](images/piechart.png)  
+![Years Distribution](images/box.png)
+![Category Distribution](images/pie_chart.png)  
 ![Start Year vs Rank](images/scatter.png)  
 
 ---
