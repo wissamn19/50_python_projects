@@ -11,7 +11,7 @@
 ╚═╝        ╚═╝      ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
 ```
 
-# 50 Python Projects
+# 50 PYTHON PROJECTS
 
 ### *Data Visualization · Machine Learning · Built one day at a time.*
 
@@ -148,15 +148,9 @@ project-name/
 
 <br/>
 
-## 📈 Progress
 
-```
-█░░░░░░░░░░░░░░░░░░░░░░░░░  1 / 50 projects complete
-```
 
-<br/>
 
----
 
 <br/>
 
